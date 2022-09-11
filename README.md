@@ -17,7 +17,8 @@ The purpose of this project was to build on foundational javascript knowledge by
  
 ## Results
 
-![image](https://user-images.githubusercontent.com/102773052/189228970-1da93290-1884-4e99-a1e5-d8a631c401e7.png)
+![image](https://user-images.githubusercontent.com/102773052/189514344-860fcc31-3195-4080-aa0c-01dd2583e8c4.png)
+
 
 ## Drawbacks and Recommendations
 
